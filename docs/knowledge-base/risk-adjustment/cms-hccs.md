@@ -65,7 +65,7 @@ of the steps:
 ## CMS Risk Adjustment Files
 
 The Monthly Membership Detail Report (MMR) and Model Output Report (MOR) are two types of files that CMS sends to 
-Medicare Advantage organizations (MAOs). The files, in additional to other resources from CMS, are used to calculate 
+Medicare Advantage organizations (MAOs). The files, in addition to other resources from CMS, are used to calculate 
 the CMS HCC risk adjustment factor (RAF) scores.
 
 CMS shares these files through the Medicare Advantage Prescription Drug (MARx) system and through the Health Plan 
