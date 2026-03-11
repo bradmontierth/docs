@@ -11,7 +11,7 @@ Dashboards run automatically on top of the Core Data Model and Data Marts.  The 
 <div style={{ display: "flex", flexDirection: "column", gap: "50px" }}>
 
 <div style={{ display: "flex", alignItems: "flex-start" }}> 
-    <a href="#" onClick={(e) => { window.open('https://app.powerbi.com/view?r=eyJrIjoiNzkwY2U3MzgtYzEzMC00NjM1LTlhYjItODIxYzNiYTJjY2Y5IiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
+    <a href="#" onClick={(e) => { window.open('https://app.fabric.microsoft.com/view?r=eyJrIjoiN2Y2YjNkYWEtY2ZkZi00ZGIxLTk4ODMtNmU2ZjMxYjM3YzUyIiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
       <img src="/img/cost_drivers.png" alt="Video Thumbnail" style={{ width: "120px", height: "auto", cursor: "pointer", marginRight: "30px"}} />
     </a>
 
@@ -24,7 +24,7 @@ Dashboards run automatically on top of the Core Data Model and Data Marts.  The 
 </div>
 
 <div style={{ display: "flex", alignItems: "flex-start" }}> 
-    <a href="#" onClick={(e) => { window.open('https://app.powerbi.com/view?r=eyJrIjoiZDc2ODVlNmUtYmE2NC00ZmQ3LWI2MzYtOTEwNDM1YTQwOTcxIiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
+    <a href="#" onClick={(e) => { window.open('https://app.fabric.microsoft.com/view?r=eyJrIjoiYTFhZWE0OWEtM2NjMi00ZGJlLTgxMjEtNmZmYmFiZmM5ODczIiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
       <img src="/img/dqi.png" alt="Video Thumbnail" style={{ width: "120px", height: "auto", cursor: "pointer", marginRight: "30px"}} />
     </a>
 
@@ -37,7 +37,7 @@ Dashboards run automatically on top of the Core Data Model and Data Marts.  The 
 </div>
 
 <div style={{ display: "flex", alignItems: "flex-start" }}> 
-    <a href="#" onClick={(e) => { window.open('https://app.powerbi.com/view?r=eyJrIjoiNmNmZmI3ZTUtZjhiMS00YjdlLTgxMjAtOTMyZjdjMDNiMjZkIiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
+    <a href="#" onClick={(e) => { window.open('https://app.fabric.microsoft.com/view?r=eyJrIjoiODc2MjNkMWQtNzFlOC00Njg1LWJiNTEtYTU3MTE1NDJlNDhmIiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
       <img src="/img/pop_insights.png" alt="Video Thumbnail" style={{ width: "120px", height: "auto", cursor: "pointer", marginRight: "30px"}} />
     </a>
 
@@ -50,7 +50,7 @@ Dashboards run automatically on top of the Core Data Model and Data Marts.  The 
 </div>
 
 <div style={{ display: "flex", alignItems: "flex-start" }}> 
-    <a href="#" onClick={(e) => { window.open('https://app.powerbi.com/view?r=eyJrIjoiY2UzNWMwZjYtOTI3Ny00M2I0LWI5ZmMtMTdiMjVhZTdhMjE3IiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
+    <a href="#" onClick={(e) => { window.open('https://app.fabric.microsoft.com/view?r=eyJrIjoiODdjMWI1NDEtZGMxYi00ZjIwLTgyNzctYTI0YTQzMzhkZjhiIiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
       <img src="/img/quality_measures.png" alt="Video Thumbnail" style={{ width: "120px", height: "auto", cursor: "pointer", marginRight: "30px"}} />
     </a>
 
@@ -63,7 +63,7 @@ Dashboards run automatically on top of the Core Data Model and Data Marts.  The 
 </div>
 
 <div style={{ display: "flex", alignItems: "flex-start" }}> 
-    <a href="#" onClick={(e) => { window.open('https://app.powerbi.com/view?r=eyJrIjoiMmM2ZmFiNzAtOTdlNC00NzViLWE0NzYtN2U1Y2E4ZjlmNTBjIiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
+    <a href="#" onClick={(e) => { window.open('https://app.fabric.microsoft.com/view?r=eyJrIjoiMDY2OWY2ZjEtYjFmYS00ZmU0LTk1YTItMTA1ODEyMjY4MWJmIiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
       <img src="/img/risk_adjusted_benchmarks.png" alt="Video Thumbnail" style={{ width: "120px", height: "auto", cursor: "pointer", marginRight: "30px"}} />
     </a>
 
@@ -75,20 +75,4 @@ Dashboards run automatically on top of the Core Data Model and Data Marts.  The 
   </div>
 </div>
 
-<div style={{ display: "flex", alignItems: "flex-start" }}> 
-    <a href="#" onClick={(e) => { window.open('https://app.powerbi.com/view?r=eyJrIjoiOGNmYjIzMTMtOTdlMC00OTk3LTgwMmItNmJlZTM4OGUwZmJlIiwidCI6ImJiM2M3Y2U1LTI2MjgtNGM5MS04Y2VmLTgwMTdjNjExNTk3OCIsImMiOjZ9', '_blank'); e.preventDefault(); }}>
-      <img src="/img/aco-analytics.png" alt="Video Thumbnail" style={{ width: "120px", height: "auto", cursor: "pointer", marginRight: "30px"}} />
-    </a>
-
-  <div>
-    <h3 style={{ margin: "0 20px" }}>Medicare ACO Analytics</h3>
-    <p style={{ margin: "5px 20px", fontSize: "0.9em", lineHeight: "1.4em" }}>
-      This dashboard demonstrates the type of analytics that are important for Medicare ACOs and other types of value-based care organizations.
-    </p>
-  </div>
 </div>
-
-</div>
-
-
-
